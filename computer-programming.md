@@ -56,6 +56,7 @@
 #### Courses
 
 - [ ] [The Complete Guide To Rails Performance](https://www.railsspeed.com/)
+- [x] [Agile Development Using Ruby on Rails](https://www.edx.org/professional-certificate/agile-development-using-ruby-rails)
 
 #### Podcasts
 #### Books
