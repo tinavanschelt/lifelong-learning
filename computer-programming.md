@@ -7,3 +7,5 @@
 ### Elixir (& Phoenix)
 ### Elm
 ### Ruby (on Rails)
+
+## Programming Paradigms
