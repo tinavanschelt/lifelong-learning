@@ -55,7 +55,7 @@
 
 #### Courses
 
-- [ ] [The Complete Guide To Rails Performance]()
+- [ ] [The Complete Guide To Rails Performance](https://www.railsspeed.com/)
 
 #### Podcasts
 #### Books
