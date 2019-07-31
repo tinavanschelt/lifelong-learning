@@ -4,7 +4,7 @@
 
 #### Podcasts
 
-- [ ] [Imposter Syndrome](https://open.spotify.com/episode/3qudREwh7bGYo3l1hY5TXH?si=8f0GwYFnQryddZnkrI9K2A)
+- [x] [Imposter Syndrome (The Rabbit Hole)](https://open.spotify.com/episode/3qudREwh7bGYo3l1hY5TXH?si=8f0GwYFnQryddZnkrI9K2A)
 
 #### Articles
 
