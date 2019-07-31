@@ -13,4 +13,5 @@ Keeping track of things I've learnt / want to learn
 - [Computer & Data Science](computer-science.md)
 - [Organisational "Science"](organisational.md)
 - [Psychology & Leadership](psychology-leadership.md)
+- [Strength, Conditioning & Running](running.md)
 
