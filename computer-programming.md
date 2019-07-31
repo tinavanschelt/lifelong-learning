@@ -107,7 +107,7 @@
 #### Books
 #### Articles
 
-### Interviewing
+## Interviewing
 
 #### Courses
 
@@ -116,4 +116,8 @@
 #### Books
 
 - [ ] [Cracking the Coding Interview](http://www.gayle.com/books)
+
+#### Articles
+
+- [ ] [10 Interview questions every Javascript developer should know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
