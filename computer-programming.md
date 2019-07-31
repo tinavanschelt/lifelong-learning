@@ -1,6 +1,11 @@
 
 # Computer Programming
 
+## In Progress
+
+* [Machine Learning with Javascript](https://www.udemy.com/machine-learning-with-javascript/)
+* [Refactoring, Improving the Design of Existing Code (2018)](https://martinfowler.com/books/refactoring.html)
+
 #### Courses
 
 - [ ]()
@@ -47,6 +52,11 @@
 
 #### Podcasts
 #### Books
+
+- [ ] [Programming Elixir](https://pragprog.com/book/elixir/programming-elixir)
+- [ ] [Elixir in Action](https://www.manning.com/books/elixir-in-action)
+- [ ] [Programming Phoenix](https://pragprog.com/book/phoenix14/programming-phoenix-1-4)
+
 #### Articles
 
 ### Elm
