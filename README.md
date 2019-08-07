@@ -11,8 +11,9 @@ Keeping track of things I've learnt / want to learn
 
 - [Computer Programming](computer-programming.md)
 - [Computer & Data Science](computer-science.md)
+- [History](history.md)
 - [Language & Writing](language.md)
-- [Leadership & Pschycology](leadership.md)
+- [Leadership & Pshycology](leadership.md)
 - [Organisational "Science"](organisational.md)
 - [Personal Development](personal-development.md)
 - [Strength, Conditioning & Running](running.md)
