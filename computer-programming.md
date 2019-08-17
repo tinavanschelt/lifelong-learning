@@ -81,7 +81,7 @@
 
 #### Courses
 
-- [ ]  [Understanding Typescript](https://www.udemy.com/understanding-typescript/)
+- [x]  [Understanding Typescript Course on Udemy](https://www.udemy.com/understanding-typescript/)
 
 ## Programming Paradigms
 
