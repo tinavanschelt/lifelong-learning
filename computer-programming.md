@@ -32,6 +32,10 @@
 - [ ] [React Native Advanced Concepts](https://www.udemy.com/react-native-advanced/)
 - [x] [Webpack 2: The Complete Developers Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide)
 
+#### Videos & Talks
+
+- [ ] [Side Effects & Mutability - Kyle Simpson (Frontend Masters)](https://frontendmasters.com/courses/functional-js-lite/side-effects/)
+
 #### Podcasts
 #### Books
 
@@ -92,6 +96,9 @@
 - [ ] [Functional Programming for Beginners with Javascript](https://www.udemy.com/functional-programming-for-beginners-with-javascript)
 
 #### Podcasts
+
+- [x] [JavaScript best practices, Node.js, and ending poverty with Eric Elliott, an episode from Christophe Limpalair on Spotify](https://open.spotify.com/episode/6eb8ve4EbCNGSJvyCyQBWS?si=CsrQzRmDTb-0_CgFoWsDVQ)
+
 #### Books
 #### Articles
 
@@ -99,6 +106,7 @@
 
 #### Courses
 #### Podcasts
+
 #### Books
 #### Articles
 
