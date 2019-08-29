@@ -2,6 +2,10 @@
 
 ## Reflection
 
+#### Books
+
+- [x] [10% Happier by Dan Harris](https://www.tenpercent.com/dan-harris-books)
+
 #### Podcasts
 
 - [x] [Imposter Syndrome (The Rabbit Hole)](https://open.spotify.com/episode/3qudREwh7bGYo3l1hY5TXH?si=8f0GwYFnQryddZnkrI9K2A)
@@ -11,6 +15,11 @@
 - [ ] [I failed to deliver](https://medium.com/@galstar/i-failed-to-deliver-f9c0385a6a4)
 
 ## Productivity
+
+#### Books
+
+- [x] [Deep Work by Cal Newport](http://www.calnewport.com/books/deep-work/)
+- [ ] [Your Brain at Work by David Rock](https://www.harpercollins.com/9780061771293/your-brain-at-work/)
 
 ## Habits
 
