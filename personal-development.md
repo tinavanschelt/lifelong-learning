@@ -11,3 +11,10 @@
 - [ ] [I failed to deliver](https://medium.com/@galstar/i-failed-to-deliver-f9c0385a6a4)
 
 ## Productivity
+
+## Habits
+
+#### Books
+
+- [ ] [Atomic Habits by James Clear](https://jamesclear.com/atomic-habits)
+- [ ] [The Power of Habbit by Charles Duhigg](https://charlesduhigg.com/the-power-of-habit/)
