@@ -4,6 +4,7 @@
 
 #### Books
 
+- [x] [Essentialism by Greg Mckeown](https://gregmckeown.com/book/)
 - [x] [10% Happier by Dan Harris](https://www.tenpercent.com/dan-harris-books)
 
 #### Podcasts
