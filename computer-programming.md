@@ -116,3 +116,18 @@
 
 - [ ] [10 Interview questions every Javascript developer should know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
+### Skills & Concepts
+
+#### Courses
+#### Podcasts
+
+- [ ] [The Pragmatic Folks Part 1 - Feeback Loops](https://open.spotify.com/episode/1GGQtib8as9f58yr0iXqZu?si=UPQxi2V_TrmZGrOBZInC9w)
+- [ ] [The Pragmatic Folks Part 2 - Own Your Environment](https://open.spotify.com/episode/65ZMtsupbuAhIWW8b4P3wC?si=93w2tHyUTvGwLM1C4nPSsw)
+- [ ] [The Pragmatic Folks Part 3 - The Dogmatic Developer](https://open.spotify.com/episode/7EbPaL1TJfbe7da0R2jm5Z?si=2r6THJ2bT8a9EeUtLo7_Lg)
+
+#### Books
+
+- [ ] [The Pragmatic Programmer](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)
+
+#### Articles
+
