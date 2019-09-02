@@ -1,22 +1,10 @@
 
 # Computer Programming
 
-#### Courses
-
-- [ ]()
-
-#### Podcasts
-
-- [ ]()
-
 #### Books
 
 - [ ] [Refactoring, Improving the Design of Existing Code (2018)](https://martinfowler.com/books/refactoring.html)
 - [ ] [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
-
-#### Articles
-
-- [ ]()
 
 ## Programming Languages + Frameworks
 
@@ -26,17 +14,16 @@
 
 - [ ] [Machine Learning with Javascript](https://www.udemy.com/machine-learning-with-javascript/)
 - [x] [Modern React with Redux (2019 update)](https://www.udemy.com/react-redux/)
-- [ ] [Advanced React + Redux (2018)](https://www.udemy.com/react-redux-tutorial)
-- [ ] [The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course)
-- [ ] [Essentials in Javascript ES6](https://www.udemy.com/essentials-in-javascript-es6)
+- [x] [Advanced React + Redux (2018)](https://www.udemy.com/react-redux-tutorial)
+- [x] [The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course)
+- [x] [Essentials in Javascript ES6](https://www.udemy.com/essentials-in-javascript-es6)
 - [ ] [React Native Advanced Concepts](https://www.udemy.com/react-native-advanced/)
 - [x] [Webpack 2: The Complete Developers Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide)
 
 #### Videos & Talks
 
-- [ ] [Side Effects & Mutability - Kyle Simpson (Frontend Masters)](https://frontendmasters.com/courses/functional-js-lite/side-effects/)
+- [x] [Side Effects & Mutability - Kyle Simpson (Frontend Masters)](https://frontendmasters.com/courses/functional-js-lite/side-effects/)
 
-#### Podcasts
 #### Books
 
 - [ ] [JavaScript: The Definitive Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781449393854/)
@@ -67,19 +54,11 @@
 - [ ] [The Complete Guide To Rails Performance](https://www.railsspeed.com/)
 - [x] [Agile Development Using Ruby on Rails](https://www.edx.org/professional-certificate/agile-development-using-ruby-rails)
 
-#### Podcasts
-#### Books
-#### Articles
-
 ### GraphQL
 
 #### Courses
 
 - [ ] [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course/)
-
-#### Podcasts
-#### Books
-#### Articles
 
 ### Typescript
 
@@ -99,20 +78,8 @@
 
 - [x] [JavaScript best practices, Node.js, and ending poverty with Eric Elliott, an episode from Christophe Limpalair on Spotify](https://open.spotify.com/episode/6eb8ve4EbCNGSJvyCyQBWS?si=CsrQzRmDTb-0_CgFoWsDVQ)
 
-#### Books
-#### Articles
-
-### Object-oriented Programming
-
-#### Courses
-#### Podcasts
-
-#### Books
-#### Articles
-
 ### Skills & Concepts
 
-#### Courses
 #### Podcasts
 
 - [x] [The Pragmatic Folks Part 1 - Feeback Loops](https://open.spotify.com/episode/1GGQtib8as9f58yr0iXqZu?si=UPQxi2V_TrmZGrOBZInC9w)
@@ -122,8 +89,6 @@
 #### Books
 
 - [ ] [The Pragmatic Programmer](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)
-
-#### Articles
 
 ## Interviewing
 
