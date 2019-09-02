@@ -13,7 +13,3 @@
 
 - [ ] [The Imposter's Handbook](https://bigmachine.io/)
 - [ ] [The Imposter's Handbook (Season 2)](https://bigmachine.io/)
-
-#### Podcasts
-
-#### Articles
