@@ -11,8 +11,8 @@
 #### Podcasts
 
 - [x] [Imposter Syndrome (The Rabbit Hole)](https://open.spotify.com/episode/3qudREwh7bGYo3l1hY5TXH?si=8f0GwYFnQryddZnkrI9K2A)
-- [x] [Work as identity, burnout as lifestyle](https://open.spotify.com/episode/1C3MHtbcYytCclJVebR48Y?si=Y6pZ2xgLSreigOeqvq3r-A)
-- [x] [How Our Brains Control Our Happiness](https://open.spotify.com/episode/26JS9gh35HqaPlPW4jJXjV?si=lB4lUaK3Sle3mUwGv_B33A)
+- [x] [Work as identity, burnout as lifestyle (Ezra Klein Show)](https://open.spotify.com/episode/1C3MHtbcYytCclJVebR48Y?si=Y6pZ2xgLSreigOeqvq3r-A)
+- [x] [How Our Brains Control Our Happiness (Deliciously Ella](https://open.spotify.com/episode/26JS9gh35HqaPlPW4jJXjV?si=lB4lUaK3Sle3mUwGv_B33A)
 
 #### Articles
 
